@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "E:\\anaconda file\\python.exe",
+    "typescript.tsdk": "" ,
+    // "python.linting.pylintArgs": [
+    //     "--load-plugins=pylint_django",
+    // ],
+   
+    
+ }
+
+// {
+//     "python.linting.pylintArgs": [
+//         "--load-plugins=pylint_django",
+//     ]
+// }
