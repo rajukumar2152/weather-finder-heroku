@@ -25,7 +25,7 @@ SECRET_KEY = 'u4l4sz5$ha)!(tczk2z(09uj!5-aw$5lkmpy^)-z90w7akzsgt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['city-weather-finder-page.herokuapp.com']
+ALLOWED_HOSTS = ['city-weather-finder-page.herokuapp.com','127.0.0.1']
 
 
 # Application definition
