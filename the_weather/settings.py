@@ -78,11 +78,11 @@ WSGI_APPLICATION = 'the_weather.wsgi.application'
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 # DATABASES = {
 #     "default": {
-#         "ENGINE": "django.db.backends.postgresql_psycopg2",
+#         "ENGINE": "django.db.backends.postgresql_psycopg2"
 #         "NAME": "django_deploy",
-#         "USER": "rajuk",
-#         "PASSWORD": "1234",
-#         "HOST": "localhost",
+#         "USER": "dkzrmxykommnfq",
+#         "PASSWORD": "83f45ecbec9f0ab1e49a8e6702c9f4aaa01daa4c928c32d98f9b75946a12da02",
+#         "HOST": "ec2-54-225-190-241.compute-1.amazonaws.com",
 #         "PORT": "5432",
 #     }
 # }
